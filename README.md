@@ -10,7 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-A fecha de hoy, 8 de diciembre de 2022 he terminado el curso de Git del Certificado de Google. Ya completamos el de automatizacion con Python y Bash.
-Ya estamos preparando nuestros primeros scripts y os voy dejando mis cuadernos de Jupyter por si le pueden ayudar a alguien.
-Soy un loco apasionado de las computadoras y me tira mucho el networking, los sistemas operativos, linux y las consolas de comandos.
-También he estudiado un modulo de ciberseguridad y ahora estamos con scripts. Me manejo con HTML y CSS. 
+Aunque vengo de una trayectoria de más de 30 años en el sector de la hostelería y el turismo, mi formación en Administración de TI y mi interés por la ciberseguridad me han impulsado a dar el siguiente paso en el ámbito tecnológico. Estoy aprendiendo activamente sobre la implementación de soluciones de seguridad, como el uso de contenedores Docker y la automatización de procesos, con el objetivo de proteger datos sensibles y promover buenas prácticas digitales. Mi experiencia en la gestión de operaciones y mi capacidad para adaptarme a nuevos desafíos me permiten ofrecer un enfoque práctico y estratégico para mejorar la seguridad y la resiliencia digital de las organizaciones.
