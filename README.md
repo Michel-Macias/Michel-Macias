@@ -17,7 +17,7 @@ Actualmente dedico mi tiempo a aprender, construir y compartir proyectos enfocad
 ### 🎯 En qué estoy enfocado
 
 - 📘 Estudiando:
-  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+  - [Azure AZ-900]
   - [Cisco Ethical Hacker](https://www.netacad.com/courses/ethical-hacker?courseLang=es-XL)
 - 🔧 Fortaleciendo conocimientos en:
   - **Redes, seguridad de terminales y dispositivos (Cisco Networking Academy)**
