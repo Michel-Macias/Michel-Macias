@@ -32,7 +32,8 @@ Actualmente dedico mi tiempo a aprender, construir y compartir proyectos enfocad
 
 | Plataforma | Certificación / Curso | Año |
 |-------------|-----------------------|-----|
-| 🎓 Google | [IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) | 2023 |
+| 🎓 Google | [IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/QZAQ3BPB8BAN) | 2023 |
+| 🎓 Google | [Cibersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ZF6BUWJAN6YY) | 2025 |
 | 🎓 Cisco Networking Academy | Introduction to Cybersecurity | 2023 |
 | 🎓 Cisco Networking Academy | Conceptos básicos de redes | 2023 |
 | 🎓 Cisco Networking Academy | Dispositivos de red y configuración inicial | 2024 |
